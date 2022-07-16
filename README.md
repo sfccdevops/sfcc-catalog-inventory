@@ -11,7 +11,7 @@ Installation
 You can install this package via NPM:
 
 ```bash
-npm install -g sfcc-catalog-inventory
+npm install -g @sfccdevops/sfcc-catalog-inventory
 ```
 
 Usage
@@ -54,6 +54,11 @@ Need help on how to run this tool?  Just run the command without options to see 
 ```bash
 sfcc-catalog-inventory
 ```
+
+About the Author
+---
+
+> [Peter Schmalfeldt](https://peterschmalfeldt.com/) is a Certified Senior Salesforce Commerce Cloud Developer with over 20 years of experience building eCommerce websites, providing everything you need to design, develop & deploy eCommerce applications for Web, Mobile & Desktop platforms.
 
 Disclaimer
 ---

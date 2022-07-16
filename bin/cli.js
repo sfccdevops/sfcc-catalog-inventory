@@ -4,6 +4,7 @@ const path = require('path')
 const yargs = require('yargs')
 
 const argv = yargs
+  .scriptName('sfcc-catalog-inventory')
   .usage('Usage: sfcc-catalog-inventory -i [input] -o [output]')
   .describe('i', 'Input File ( Catalog XML )')
   .describe('o', 'Output File ( Generated XML )')

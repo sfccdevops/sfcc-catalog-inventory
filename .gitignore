@@ -1,3 +1,6 @@
+!.nvmrc
+!sfcc-catalog-inventory.code-workspace
+
 # Node Files #
 ##############
 node_modules

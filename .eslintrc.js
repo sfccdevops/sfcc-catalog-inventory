@@ -10,7 +10,7 @@ module.exports = {
     browser: true,
   },
   plugins: ['prettier'],
-  extends: ['eslint:recommended', 'plugin:import/errors', 'plugin:import/warnings', 'prettier/standard'],
+  extends: ['eslint:recommended', 'plugin:import/errors', 'plugin:import/warnings', 'prettier'],
   rules: {
     'prettier/prettier': [
       'error',
